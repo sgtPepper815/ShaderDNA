@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Libs/glfw-3.4/glfw-3.4/build/cmake_install.cmake",
+		"C:/Libs/glfw-3.4/glfw-3.4/build/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
