@@ -10,6 +10,10 @@
 
 ## About
 
+## Preview
+
+![ShaderDNA Preview](shaderdna.jpg)
+
 ShaderDNA is an experimental graphics application that combines real-time procedural shader rendering with concepts inspired by genetic algorithms.
 
 Instead of manually designing every visual pattern, ShaderDNA represents shader parameters as digital DNA. By generating randomized genomes and combining their attributes through genetic crossover, the application explores new visual variations.
