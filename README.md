@@ -56,7 +56,7 @@ Mutation is currently under development and is intended to introduce additional 
 
 | Technology | Purpose |
 |---|---|
-| C++20 | Core application logic |
+| C++ | Core application logic |
 | OpenGL 3.3 | Real-time graphics rendering |
 | GLSL | Procedural shader programming |
 | GLFW | Window and context management |
@@ -71,7 +71,7 @@ Mutation is currently under development and is intended to introduce additional 
 
 - Windows
 - Visual Studio with Desktop Development with C++
-- C++20 compatible compiler
+- C++ compatible compiler
 - CMake 3.24 or newer
 - Ninja
 - Git
